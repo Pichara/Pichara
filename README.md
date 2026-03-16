@@ -6,12 +6,9 @@
 
 ---
 
-# 👨‍💻 Rodrigo Pichara Gomes
+<h1 align="center">👨‍💻 Rodrigo Pichara Gomes</h1>
 
-Backend Developer | Python Developer | Software Engineering Student  
-Waterloo, Ontario 🇨🇦  
-
-Software Engineering Technology student at **Conestoga College** with a background in Brazil, focused on **backend development, cybersecurity, and AI systems**. I enjoy building real-world systems that combine **automation, data processing, and security concepts**. Expected to graduate in **April 2028**.
+Software Engineering Technology student at **Conestoga College** focused on **backend development, cybersecurity, and AI systems**. I enjoy building real-world systems that combine **automation, data processing, and security concepts**. Expected to graduate in **April 2028**.
 
 <div align="center">
 
@@ -27,12 +24,16 @@ Software Engineering Technology student at **Conestoga College** with a backgrou
 
 ---
 
+<div align="center">
+
 # 🚀 Current Focus
 
-• Backend Development  
-• Python Systems & Automation  
-• Cybersecurity / Ethical Hacking  
-• AI-powered applications  
+Backend Development  
+Python Systems & Automation  
+Cybersecurity / Ethical Hacking  
+AI-powered applications  
+
+</div>
 
 ---
 
